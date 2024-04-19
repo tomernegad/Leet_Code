@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Number of submatrices.cpp" />
     <ClCompile Include="Number of Visible People in a Queue.c" />
+    <ClCompile Include="Orderly Queue.c" />
     <ClCompile Include="Unique Paths III.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

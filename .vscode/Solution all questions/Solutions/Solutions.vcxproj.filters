@@ -24,5 +24,8 @@
     <ClCompile Include="Number of Visible People in a Queue.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Orderly Queue.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
