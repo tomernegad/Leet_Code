@@ -1,1 +1,6 @@
-﻿  Solutions.vcxproj -> C:\Users\tomer\OneDrive\Desktop\HIT\year 3 sem 2\תכנות תחרותי\Leet_Code\.vscode\Solution all questions\x64\Debug\Solutions.exe
+﻿  Number of Submatrices That Sum to Target.c
+C:\Users\tomer\OneDrive\Desktop\HIT\year 3 sem 2\תכנות תחרותי\Leet_Code\.vscode\Solution all questions\Solutions\Number of Submatrices That Sum to Target.c(27,20): error C2057: expected constant expression
+C:\Users\tomer\OneDrive\Desktop\HIT\year 3 sem 2\תכנות תחרותי\Leet_Code\.vscode\Solution all questions\Solutions\Number of Submatrices That Sum to Target.c(27,21): error C2466: cannot allocate an array of constant size 0
+C:\Users\tomer\OneDrive\Desktop\HIT\year 3 sem 2\תכנות תחרותי\Leet_Code\.vscode\Solution all questions\Solutions\Number of Submatrices That Sum to Target.c(27,13): error C2133: 'rowSum': unknown size
+C:\Users\tomer\OneDrive\Desktop\HIT\year 3 sem 2\תכנות תחרותי\Leet_Code\.vscode\Solution all questions\Solutions\Number of Submatrices That Sum to Target.c(28,9): warning C4013: 'memset' undefined; assuming extern returning int
+C:\Users\tomer\OneDrive\Desktop\HIT\year 3 sem 2\תכנות תחרותי\Leet_Code\.vscode\Solution all questions\Solutions\Number of Submatrices That Sum to Target.c(28,41): warning C4034: sizeof returns 0

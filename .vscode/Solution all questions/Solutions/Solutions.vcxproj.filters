@@ -27,5 +27,8 @@
     <ClCompile Include="Orderly Queue.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Number of Submatrices That Sum to Target.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

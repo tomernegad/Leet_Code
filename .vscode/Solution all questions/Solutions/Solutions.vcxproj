@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Number of Submatrices That Sum to Target.c" />
     <ClCompile Include="Number of submatrices.cpp" />
     <ClCompile Include="Number of Visible People in a Queue.c" />
     <ClCompile Include="Orderly Queue.c" />
