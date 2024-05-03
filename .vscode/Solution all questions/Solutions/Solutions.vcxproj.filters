@@ -30,7 +30,11 @@
     <ClCompile Include="Number of Submatrices That Sum to Target.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="Sum of Distance in Tree.c">
+=======
+    <ClCompile Include="Reducing Dishes.cpp">
+>>>>>>> d5452e82f64ce8cb15759f8c73a77f2e70712bba
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -131,7 +131,11 @@
     <ClCompile Include="Number of submatrices.cpp" />
     <ClCompile Include="Number of Visible People in a Queue.c" />
     <ClCompile Include="Orderly Queue.c" />
+<<<<<<< HEAD
     <ClCompile Include="Sum of Distance in Tree.c" />
+=======
+    <ClCompile Include="Reducing Dishes.cpp" />
+>>>>>>> d5452e82f64ce8cb15759f8c73a77f2e70712bba
     <ClCompile Include="Unique Paths III.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
