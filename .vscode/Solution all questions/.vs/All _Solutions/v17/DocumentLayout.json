@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HIT\\year 3 sem 2\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05D7\u05E8\u05D5\u05EA\u05D9\\Leet_Code\\.vscode\\Solution all questions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38818CC1-9EEF-4FD2-84A5-BF273C1AD0E4}|Solutions\\Solutions.vcxproj|D:\\HIT\\year 3 sem 2\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05D7\u05E8\u05D5\u05EA\u05D9\\Leet_Code\\.vscode\\Solution all questions\\Solutions\\Sum of Distance in Tree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38818CC1-9EEF-4FD2-84A5-BF273C1AD0E4}|Solutions\\Solutions.vcxproj|solutionrelative:Solutions\\Sum of Distance in Tree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38818CC1-9EEF-4FD2-84A5-BF273C1AD0E4}|Solutions\\Solutions.vcxproj|D:\\HIT\\year 3 sem 2\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05D7\u05E8\u05D5\u05EA\u05D9\\Leet_Code\\.vscode\\Solution all questions\\Solutions\\Number of Submatrices That Sum to Target.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38818CC1-9EEF-4FD2-84A5-BF273C1AD0E4}|Solutions\\Solutions.vcxproj|solutionrelative:Solutions\\Number of Submatrices That Sum to Target.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38818CC1-9EEF-4FD2-84A5-BF273C1AD0E4}|Solutions\\Solutions.vcxproj|D:\\HIT\\year 3 sem 2\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05D7\u05E8\u05D5\u05EA\u05D9\\Leet_Code\\.vscode\\Solution all questions\\Solutions\\Orderly Queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38818CC1-9EEF-4FD2-84A5-BF273C1AD0E4}|Solutions\\Solutions.vcxproj|solutionrelative:Solutions\\Orderly Queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38818CC1-9EEF-4FD2-84A5-BF273C1AD0E4}|Solutions\\Solutions.vcxproj|D:\\HIT\\year 3 sem 2\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05D7\u05E8\u05D5\u05EA\u05D9\\Leet_Code\\.vscode\\Solution all questions\\Solutions\\Number of Visible People in a Queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38818CC1-9EEF-4FD2-84A5-BF273C1AD0E4}|Solutions\\Solutions.vcxproj|solutionrelative:Solutions\\Number of Visible People in a Queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38818CC1-9EEF-4FD2-84A5-BF273C1AD0E4}|Solutions\\Solutions.vcxproj|D:\\HIT\\year 3 sem 2\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05D7\u05E8\u05D5\u05EA\u05D9\\Leet_Code\\.vscode\\Solution all questions\\Solutions\\Number of submatrices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38818CC1-9EEF-4FD2-84A5-BF273C1AD0E4}|Solutions\\Solutions.vcxproj|solutionrelative:Solutions\\Number of submatrices.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38818CC1-9EEF-4FD2-84A5-BF273C1AD0E4}|Solutions\\Solutions.vcxproj|D:\\HIT\\year 3 sem 2\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05D7\u05E8\u05D5\u05EA\u05D9\\Leet_Code\\.vscode\\Solution all questions\\Solutions\\Unique Paths III.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38818CC1-9EEF-4FD2-84A5-BF273C1AD0E4}|Solutions\\Solutions.vcxproj|solutionrelative:Solutions\\Unique Paths III.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sum of Distance in Tree.c",
+              "DocumentMoniker": "D:\\HIT\\year 3 sem 2\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05D7\u05E8\u05D5\u05EA\u05D9\\Leet_Code\\.vscode\\Solution all questions\\Solutions\\Sum of Distance in Tree.c",
+              "RelativeDocumentMoniker": "Solutions\\Sum of Distance in Tree.c",
+              "ToolTip": "D:\\HIT\\year 3 sem 2\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05D7\u05E8\u05D5\u05EA\u05D9\\Leet_Code\\.vscode\\Solution all questions\\Solutions\\Sum of Distance in Tree.c",
+              "RelativeToolTip": "Solutions\\Sum of Distance in Tree.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-03T13:10:34.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Number of Submatrices That Sum to Target.c",
+              "DocumentMoniker": "D:\\HIT\\year 3 sem 2\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05D7\u05E8\u05D5\u05EA\u05D9\\Leet_Code\\.vscode\\Solution all questions\\Solutions\\Number of Submatrices That Sum to Target.c",
+              "RelativeDocumentMoniker": "Solutions\\Number of Submatrices That Sum to Target.c",
+              "ToolTip": "D:\\HIT\\year 3 sem 2\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05D7\u05E8\u05D5\u05EA\u05D9\\Leet_Code\\.vscode\\Solution all questions\\Solutions\\Number of Submatrices That Sum to Target.c",
+              "RelativeToolTip": "Solutions\\Number of Submatrices That Sum to Target.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-03T12:55:14.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Orderly Queue.c",
+              "DocumentMoniker": "D:\\HIT\\year 3 sem 2\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05D7\u05E8\u05D5\u05EA\u05D9\\Leet_Code\\.vscode\\Solution all questions\\Solutions\\Orderly Queue.c",
+              "RelativeDocumentMoniker": "Solutions\\Orderly Queue.c",
+              "ToolTip": "D:\\HIT\\year 3 sem 2\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05D7\u05E8\u05D5\u05EA\u05D9\\Leet_Code\\.vscode\\Solution all questions\\Solutions\\Orderly Queue.c",
+              "RelativeToolTip": "Solutions\\Orderly Queue.c",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-03T12:55:14.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Number of Visible People in a Queue.c",
+              "DocumentMoniker": "D:\\HIT\\year 3 sem 2\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05D7\u05E8\u05D5\u05EA\u05D9\\Leet_Code\\.vscode\\Solution all questions\\Solutions\\Number of Visible People in a Queue.c",
+              "RelativeDocumentMoniker": "Solutions\\Number of Visible People in a Queue.c",
+              "ToolTip": "D:\\HIT\\year 3 sem 2\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05D7\u05E8\u05D5\u05EA\u05D9\\Leet_Code\\.vscode\\Solution all questions\\Solutions\\Number of Visible People in a Queue.c",
+              "RelativeToolTip": "Solutions\\Number of Visible People in a Queue.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-03T12:55:14.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Number of submatrices.cpp",
+              "DocumentMoniker": "D:\\HIT\\year 3 sem 2\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05D7\u05E8\u05D5\u05EA\u05D9\\Leet_Code\\.vscode\\Solution all questions\\Solutions\\Number of submatrices.cpp",
+              "RelativeDocumentMoniker": "Solutions\\Number of submatrices.cpp",
+              "ToolTip": "D:\\HIT\\year 3 sem 2\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05D7\u05E8\u05D5\u05EA\u05D9\\Leet_Code\\.vscode\\Solution all questions\\Solutions\\Number of submatrices.cpp",
+              "RelativeToolTip": "Solutions\\Number of submatrices.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-03T12:55:14.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Unique Paths III.cpp",
+              "DocumentMoniker": "D:\\HIT\\year 3 sem 2\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05D7\u05E8\u05D5\u05EA\u05D9\\Leet_Code\\.vscode\\Solution all questions\\Solutions\\Unique Paths III.cpp",
+              "RelativeDocumentMoniker": "Solutions\\Unique Paths III.cpp",
+              "ToolTip": "D:\\HIT\\year 3 sem 2\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05EA\u05D7\u05E8\u05D5\u05EA\u05D9\\Leet_Code\\.vscode\\Solution all questions\\Solutions\\Unique Paths III.cpp",
+              "RelativeToolTip": "Solutions\\Unique Paths III.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-03T12:55:14.843Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
